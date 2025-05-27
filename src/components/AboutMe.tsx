@@ -3,7 +3,7 @@ export const AboutMe = () => {
         <section id="about-me" className="m-auto py-10">
             <div className="">
                 <img
-                 src="https://cdn.discordapp.com/avatars/597664623780691978/a146987a9ec9ac678e9083dde51d311c.webp?size=4096"
+                 src="https://cdn.discordapp.com/avatars/597664623780691978/db22d292ad8099801465eb1244227af9.webp?size=1024"
                  alt="DevArfat" className="w-72 rounded-full m-auto border-green-500 border-x-2 border-y-2"/>
                 <h2 className="text-4xl text-center pt-5 font-semibold">Hi, I'm Yaser Arfat</h2>
                 <p className="m-auto px-5 py-2 text-2xl text-center md:text-justify">
